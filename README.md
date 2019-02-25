@@ -1,4 +1,8 @@
 # react-native-viewer
+show a ReactNative Component (Image or Gif or View) in fullscreen mode
+
+<img src="https://media.giphy.com/media/3Dl9ZKeR00Q7FpAJJ3/giphy.gif" width="220" height="400" />
+
 
 ## Getting started
 
