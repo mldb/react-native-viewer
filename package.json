@@ -1,0 +1,24 @@
+{
+  "name": "react-native-viewer",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "image-viewer"
+  ],
+  "author": "mldb",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  },
+  "dependencies": {
+    "react-native-gesture-responder": "^0.1.1",
+    "react-native-scroller": "^0.0.6",
+    "react-timer-mixin": "^0.13.4"
+  }
+}
